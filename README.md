@@ -1,6 +1,7 @@
 DOWNLOAD THIS REPO AS A ZIP FILE - DO NOT CLONE
 
 INSERT cppmain.snippet into:
+
  C:\Users\<youruser>\Documents\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets
 
 1. open visual studio
