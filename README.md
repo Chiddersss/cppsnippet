@@ -15,3 +15,4 @@ Restart Visual Studio
 
 When you are in a c++ file, type cppmain and tab
 That should insert the usual 
+
