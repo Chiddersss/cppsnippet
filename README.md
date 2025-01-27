@@ -8,7 +8,7 @@ INSERT cppmain.snippet into:
 2. select tools in the top bar
 3. select code snippet manager
 4. under languages select visual c++
-5 . under My Code Snippets in the left columm select the cppmain.snippet file
+5. under My Code Snippets in the left columm select the cppmain.snippet file
 6. Press OK
 
 Restart Visual Studio
